@@ -98,6 +98,4 @@
 📍 **Location:** India  
 💡 **Let's collaborate and build something amazing!** 🚀  
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswanth-k-0&show_icons=true&theme=radical" alt="GitHub Stats" />  
-</p>  
+
