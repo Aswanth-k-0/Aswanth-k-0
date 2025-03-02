@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center">  
-  🚀 Full Stack Developer | 💻 Tech Enthusiast | 📱 Mobile App Developer  
+  🚀 Full Stack Developer | 💻 Tech Enthusiast | 📱  App Developer  
 </p>  
 
 <p align="center">  
