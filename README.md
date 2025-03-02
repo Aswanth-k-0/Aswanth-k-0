@@ -95,7 +95,7 @@
 
 ### 📫 Get in Touch  
 📩 **Email:** aswanth1611@gmail.com  
-📍 **Location:** India  
+📍 **Location:** Kannur, Kerala, India  
 💡 **Let's collaborate and build something amazing!** 🚀  
 
 
