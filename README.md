@@ -51,7 +51,7 @@
 > 📌 A **workflow automation** solution for managing **college forms** efficiently.  
 > 🛠️ Built with **Node.js, MySQL, Bootstrap, HTML**.  
 
-### 💙 **Mental Health Care App**  
+### 💙 **MindEase**  
 > 🧠 Designed to assist individuals in **managing emotional well-being**.  
 > 🏆 **24-hour hackathon winner** - **2nd place**!  
 > 🛠️ Built with **Java, Node.js, Android Studio, MongoDB**.  
