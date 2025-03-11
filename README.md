@@ -54,7 +54,7 @@
 ### 💙 **MindEase**  
 > 🧠 Designed to assist individuals in **managing emotional well-being**.  
 > 🏆 **24-hour hackathon winner** - **2nd place**!  
-> 🛠️ Built with **Java, Node.js, Android Studio, MongoDB**.  
+> 🛠️ Built with **Java, Node.js, Android Studio, XML**.  
 
 ---
 
