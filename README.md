@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/aswanthk1611">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
-  <a href="your-portfolio-link">
+  <a href="https://aswanthk.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>  
 </p>  
